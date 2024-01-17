@@ -1,0 +1,26 @@
+.box{
+    width: 650px;
+    position: relative;
+    margin: 30px auto;
+    height: 50px;
+}
+.main-img{
+    width: 100%;
+}
+.content{
+    position: absolute;
+    top: 60px;
+    left: 40px;
+    color: white;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.profile{
+    border-radius: 50%;
+    width: 100px;
+    position: relative;
+    bottom: 30px;
+    left:8px;
+    border: 3px solid white;
+}
